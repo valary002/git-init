@@ -1,0 +1,13 @@
+body{
+    background-color: powderblue;
+}
+h1{
+    color:white;
+    background-color: #FF3232;
+}
+h2{
+    color: rgba(red, green, blue, alpha);
+}
+img{
+    width: 70%;
+}
